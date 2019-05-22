@@ -1,0 +1,40 @@
+.root {
+    -fx-background-image: url("background.jpg");
+    -fx-background-size: 820 540;
+    -fx-background-repeat: stretch;
+}
+
+.label {
+    -fx-text-fill: #313131;
+    font: 14px Calibri, Arial, sans-serif;
+    text-decoration: none !important;
+    -fx-font-weight: bold;
+    white-space: nowrap;
+}
+
+.text-field:hover {
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.8), 3, 0, 0, 0);
+}
+
+.button {
+    -fx-text-fill: #313131;
+    font: 14px Calibri, Arial, sans-serif;
+    text-decoration: none !important;
+    white-space: nowrap;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#99e0ff, #8c81ef);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.7), 10, 0, 0, 0);
+}
+
+.button:hover {
+    cursor: pointer;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.8), 15, 0, 0, 0);
+}
+
+.button:pressed {
+    -fx-background-color: linear-gradient(#6ea3be, #7e72d0);
+}
+
+
