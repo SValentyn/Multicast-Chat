@@ -25,7 +25,7 @@ public class Chat extends Application {
     @Override
     public void start(Stage stage) throws IOException {
 
-        /* The fxml-file (formed by SceneBuilder'om) is loaded to display the window with the components */
+        /* The fxml-file (formed by SceneBuilder) is loaded to display the window with the components */
         Parent root = FXMLLoader.load(getClass().getResource("/FXML/form.fxml"));
         root.getStylesheets().add(getClass().getResource("/decor/styles.css").toExternalForm());
 
