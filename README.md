@@ -4,6 +4,7 @@
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 Description project: The application is a MulticastSocket based chat using the JavaFX library. Was used scheme of separation of application data – Model-View-Controller.
+
 ![Image alt](https://github.com/SValentyn/Chat_JavaFX/raw/master/src/image/Working_windows.png)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
