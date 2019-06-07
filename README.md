@@ -7,7 +7,7 @@
 
 ---
 
-Description project: The application is a MulticastSocket based chat using the JavaFX library. Was used scheme of separation of application data – Model-View-Controller.
+Description project: The application is a [MulticastSocket](https://docs.oracle.com/javase/7/docs/api/java/net/MulticastSocket.html) based chat using the JavaFX library. Was used scheme of separation of application data – [Model-View-Controller](https://en.wikipedia.org/wiki/Model–view–controller).
 
 ![Image alt](https://github.com/SValentyn/Chat_JavaFX/raw/master/src/image/Working_windows.png)
 
